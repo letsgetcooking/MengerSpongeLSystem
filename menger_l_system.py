@@ -1,5 +1,6 @@
 from l_system import LSystem
 
+
 class MengerSpongeLSystem(LSystem):
     
     def __init__(self):
